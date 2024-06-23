@@ -22,4 +22,4 @@ The original code for a similar implementation can be found [here](https://githu
 
 ## Additional Resources
 
-- **TransformDemo.ipynb**: A Jupyter notebook file, `TransformDemo.ipynb`, will be provided in this repository to demonstrate the usage of the Local RAG agent specifically tailored to the Transform UK website.
+- **TransformDemo.ipynb**: A Jupyter notebook file, `TransformDemo.ipynb`, is provided in this repository to demonstrate the usage of the Local RAG agent with LLaMA3 specifically tailored to the Transform UK website.
